@@ -1,0 +1,16 @@
+{
+  "name": "nodejs_server",
+  "version": "1.0.0",
+  "description": "Wild Code School - Quête : Serveur HTTP NodeJS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Julien ALEXANDRE <julien.alexandre26@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+  }
+}
