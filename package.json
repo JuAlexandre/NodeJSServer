@@ -1,7 +1,7 @@
 {
-  "name": "nodejs_server",
+  "name": "node-server",
   "version": "1.0.0",
-  "description": "Wild Code School - Quête : Serveur HTTP NodeJS",
+  "description": "WCS Quest : Node Server",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
